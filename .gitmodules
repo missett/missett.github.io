@@ -1,3 +1,6 @@
 [submodule "site/themes/hugo-discaptive"]
 	path = site/themes/hugo-discaptive
 	url = https://github.com/discaptive/hugo-discaptive.git
+[submodule "site/themes/beautifulhugo"]
+	path = site/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

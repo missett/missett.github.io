@@ -1,6 +1,0 @@
-baseURL = 'http://localhost:8000/'
-languageCode = 'en-gb'
-title = 'Ryan Missett'
-theme = 'hugo-discaptive'
-
-
