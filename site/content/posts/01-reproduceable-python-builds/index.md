@@ -1,9 +1,9 @@
----
-title: "Reproducible Python Builds"
-date: 2025-04-02
-author: Ryan Missett
-summary: "Taking a deep dive into what it takes to achieve reproducible Python build packages, and pulling out the gory details of Python bytecode along the way."
----
++++
+title = "Reproducible Python Builds"
+date = "2025-04-02"
+author = "Ryan Missett"
+summary = "Taking a deep dive into what it takes to achieve reproducible Python build packages, and pulling out the gory details of Python bytecode along the way."
++++
 
 Working on a client project recently, I was confronted with some classic Terraform Plan output-
 
